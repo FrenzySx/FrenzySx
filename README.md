@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ibrahim
+# Hi 
 
 ### Computer Engineering Student | I Love Creating Something | Ambitious
 
