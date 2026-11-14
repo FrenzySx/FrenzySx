@@ -8,6 +8,8 @@
 
 - 🌱 I'm currently learning **Flutter, Python and C++**
 
+- 💬 Ask me about **Flutter reverse engineering (the basics)**
+
 - 📫 How to reach me **ic290100@gmail.com**
 
 - ⚡ Fun fact **I know how to use AI**
