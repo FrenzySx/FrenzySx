@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FrenzySx&label=Profile%20views&color=0e75b6&style=flat" alt="FrenzySx" /> </p>
 
-- 🔭 I'm currently working on **[SlothTube (SaaS Tool)](https://slothtube.net/)**
+- 🔭 I'm currently working on **[SlothTube (Youtube Extension)](https://slothtube.net/)**
 
 - 🌱 I'm currently learning **Flutter, Python, C++ and low-level binary analysis (ARM64, Dart AOT snapshots)**
 
