@@ -6,13 +6,13 @@
 
 - 🔭 I'm currently working on **[SlothTube (SaaS Tool)](https://slothtube.net/)**
 
-- 🌱 I'm currently learning **Flutter, Python and C++**
+- 🌱 I'm currently learning **Flutter, Python, C++ and low-level binary analysis (ARM64, Dart AOT snapshots)**
 
-- 💬 Ask me about **Flutter reverse engineering (the basics)**
+- 💬 Ask me about **Android & Flutter reverse engineering, static analysis with Ghidra / jadx, runtime hooking with Frida, and traffic inspection with Wireshark**
 
 - 📫 How to reach me **ic290100@gmail.com**
 
-- ⚡ Fun fact **I know how to use AI**
+- ⚡ Fun fact **I read packets and decompiled APKs for fun, and try to solve them as puzzle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
