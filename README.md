@@ -27,6 +27,6 @@
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=FrenzySx&theme=github_dark&hide_border=true" alt="FrenzySx streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrenzySx&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrenzySx&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
