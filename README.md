@@ -1,6 +1,6 @@
 # Hi 
 
-### Computer Engineering Student | I Love Creating Something | Ambitious
+### Computer Engineering Student | I Love Creating Something 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FrenzySx&label=Profile%20views&color=0e75b6&style=flat" alt="FrenzySx" /> </p>
 
